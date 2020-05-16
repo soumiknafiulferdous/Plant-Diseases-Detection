@@ -5,6 +5,3 @@ Convolutional Neural Network can be implemented by using various architectures. 
 Considering the economic condition of our country where machines with large computational power are not enormously available, it was decided to use VGGNet to train the model which can identify plant diseases. Thus, the features of requiring less computational power and providing better results were influenced to choose VGGNet architecture.
 
 
-## Screenshot
-
-![DSC_0013](https://user-images.githubusercontent.com/30154496/82123309-83d97800-97ba-11ea-9100-4b3a8dfd27ea.jpg)
